@@ -7,7 +7,7 @@ Two repos:
 - github.com/ishaan-tries/manufacturing-rag-assistant
   LangChain, FAISS, Gemini API. Ingests technical PDFs, answers questions with source citations.
 
-- github.com/ishaan-tries/audi-visual-inspection
+- github.com/ishaan-tries/manufacturing-visual-inspection
   PyTorch, ResNet18, MVTec Anomaly Detection dataset. 94.92% validation accuracy.
   Weighted CrossEntropyLoss for class imbalance, CUDA GPU training, OpenCV real-time inference.
 
